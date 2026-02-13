@@ -1,5 +1,4 @@
 
-                        speakText("Launching Medium");
                         launchMedium();
                         delay(5000);
  //                       simulateClick(100, 1450);
